@@ -1,0 +1,6 @@
+{
+  "name": "LabPulse LIMS",
+  "description": "Offline Clinical Laboratory Management System (LIMS) for patient registration, test booking, sample tracking, result entry, report approval, billing, and local backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
